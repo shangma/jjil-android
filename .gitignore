@@ -1,1 +1,7 @@
 .project
+bin
+gen
+libs/android-support-v4.jar
+libs/jjil.jar
+project.properties
+.classpath
